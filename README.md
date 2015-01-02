@@ -1,4 +1,2 @@
-hardikbjain.github.io
-=====================
-
-Website Repo
+mygithubpage
+============

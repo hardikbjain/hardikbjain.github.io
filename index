@@ -1,6 +1,45 @@
 # jemdoc: menu{MENU}{index.html}
 = Hardik Jain
-([hardikbjain@utexas.edu])
+([hardikbjain AT utexas DOT edu])
 
-Hardik Jain, MS/PhD Student, The University of Texas at Austin
+~~~
+{}{img_left}{FILENAME.IMG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+Ordinary jemdoc markup goes here.
+~~~
 
+Hardik Jain, MS/PhD Student
+
+[www.ece.utexas.edu Department of Electrical and Computer Engineering]
+
+[www.utexas.edu The University of Texas at Austin]
+
+
+
+
+Advisor: [www.ece.utexas.edu/~sriram/doku.php Prof. Sriram Vishwanath]
+
+== Education
+
+\begin{itemize}
+\item M.S., Electrical and Computer Engineering, [www.utexas.edu The University of Texas at Austin]
+
+\item B.E. (Hons) Electronics and Instrumentation Engineering, [ www.bits-pilani.ac.in Birla Institute of Technology and Science, Pilani] 2007-2011
+\end{itemize}
+
+== Research Interests
+
+\begin{itemize}
+	\item Wireless Communication
+	\item Coding Theory
+	\item Information Theory
+\end{itemize}
+
+== Contact
+Office: 
+		Wireless Networking & Communications Group 
+		Department of Electrical and Computer Engineering 
+		The University of Texas at Austin 
+		1616, Guadalupe St.
+		Austin, TX 78702
+E-mail: 
+		hardikbjain AT utexas DOT edu

@@ -3,7 +3,7 @@
 (hardikbjain AT utexas DOT edu)
 
 ~~~
-{}{img_left}{FILENAME.IMG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+{}{img_left}{image.jpg}{alt text}{300px}{225px}{IMGLINKTARGET}
 ~~~
 
 Hardik Jain, MS/PhD Student

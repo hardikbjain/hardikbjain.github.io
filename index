@@ -1,45 +1,37 @@
 # jemdoc: menu{MENU}{index.html}
 = Hardik Jain
-([hardikbjain AT utexas DOT edu])
+(hardikbjain AT utexas DOT edu)
 
 ~~~
 {}{img_left}{FILENAME.IMG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
-Ordinary jemdoc markup goes here.
 ~~~
 
 Hardik Jain, MS/PhD Student
 
-[www.ece.utexas.edu Department of Electrical and Computer Engineering]
+[http:\\www.ece.utexas.edu Department of Electrical and Computer Engineering]
 
-[www.utexas.edu The University of Texas at Austin]
-
-
+[http:\\www.utexas.edu The University of Texas at Austin]
 
 
-Advisor: [www.ece.utexas.edu/~sriram/doku.php Prof. Sriram Vishwanath]
+Advisor: [http:\\www.ece.utexas.edu/~sriram/doku.php Prof. Sriram Vishwanath]
 
 == Education
 
-\begin{itemize}
-\item M.S., Electrical and Computer Engineering, [www.utexas.edu The University of Texas at Austin]
+- M.S., Electrical and Computer Engineering, [http:\\www.utexas.edu The University of Texas at Austin] 2013 - Present
 
-\item B.E. (Hons) Electronics and Instrumentation Engineering, [ www.bits-pilani.ac.in Birla Institute of Technology and Science, Pilani] 2007-2011
-\end{itemize}
+- B.E. (Hons.) Electronics and Instrumentation Engineering, [http:\\www.bits-pilani.ac.in Birla Institute of Technology and Science, Pilani] 2007-2011
+
 
 == Research Interests
-
-\begin{itemize}
-	\item Wireless Communication
-	\item Coding Theory
-	\item Information Theory
-\end{itemize}
+- Wireless Communication
+- Coding Theory
+- Information Theory
 
 == Contact
-Office: 
-		Wireless Networking & Communications Group 
-		Department of Electrical and Computer Engineering 
-		The University of Texas at Austin 
-		1616, Guadalupe St.
-		Austin, TX 78702
-E-mail: 
-		hardikbjain AT utexas DOT edu
+:{Office:}Wireless Networking & Communications Group \n
+		Department of Electrical and Computer Engineering \n
+		The University of Texas at Austin \n
+		1616, Guadalupe St. \n
+		Austin, TX 78702 \n
+:{Email:}hardikbjain AT utexas DOT edu
+
